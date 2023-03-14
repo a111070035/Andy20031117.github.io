@@ -19,3 +19,12 @@ a:hover{
     background-color:#50C878;
     color:#FFD700;
 }
+
+.expedu_icon{
+    color:#495057;
+    text-decoration: none;
+}
+
+.expedu_icon:hover{
+    color:#bd5d38;
+}
