@@ -22,9 +22,9 @@ a:hover{
 
 .expedu_icon{
     color:#495057;
-    text-decoration: none;
 }
 
 .expedu_icon:hover{
+    background-color: greenyellow;
     color:#bd5d38;
 }
