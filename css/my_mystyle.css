@@ -46,3 +46,6 @@ a{
 .social-icons .social-icon:hover{
     background-color: var(--bs-secondary);
 }
+
+p {color: #0f0a30;	background-color: #ffd326;	border-width: 2px;border-style: solid;border-color: #6854d7;}
+p {color: #0f0a30;	background-color: #ffd326;	border: 2px, solid, #6854d7;}
