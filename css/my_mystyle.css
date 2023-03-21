@@ -9,7 +9,14 @@ body {
     font-family: 'Noto Sans TC', sans-serif;
     text-transform: none;
     }
-
+ a{
+    color:#87CEFA;
+    text-decoration: none;
+ }
+a:hover{
+    background-color:#50C878;
+    color:#FFD700;
+}
     
 
 .expedu_icon{
