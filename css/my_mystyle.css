@@ -1,3 +1,10 @@
+:root{
+    --bs-primary:rgb(16, 230, 81);
+    --bs-primary-rab: 16,230,81;
+    --bs-secondary:rgb(161, 255, 255);
+    --bs-secondary-rab: 161,255,255;
+}
+
 body {
     font-family: 'Noto Sans TC', sans-serif;
     }
@@ -19,12 +26,7 @@ body {
     color:#bd5d38;
 }
 
-:root{
-    --bs-primary:rgb(16, 230, 81);
-    --bs-primary-rab: 16,230,81;
-    --bs-secondary:rgb(161, 255, 255);
-    --bs-secondary-rab: 161,255,255;
-}
+
 
 .expedu_icon:hover{
     color: var(--bs-secondary);
