@@ -20,10 +20,10 @@ body {
 }
 
 :root{
-    --bs-primary:#0b00a6;
+    --bs-primary:rgb(11, 0, 166);
     --bs-primary-rab: 11,0,166;
-    --bs-secondary:#A1FFFF;
-    --bs-secondary-rab: 238,143,0;
+    --bs-secondary:rgb(161, 255, 255);
+    --bs-secondary-rab: 161,255,255;
 }
 
 .expedu_icon:hover{
